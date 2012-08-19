@@ -1,4 +1,4 @@
-Average contributions by project:
+Average contributions by project in USD:
   OUYA: A New Kind of Video Game Console                             135.56
   Shadowrun Online                                                    93.10
   Tex Murphy - Project Fedora                                         85.90

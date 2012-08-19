@@ -231,7 +231,7 @@ def scrape_and_save():
 def print_average_contributions():
     projects = load_projects()
     fm = FunnyMath(projects)
-    print 'Average contributions by project:'
+    print 'Average contributions by project in USD:'
     for project, avg in fm.list_averages():
         print '  %-60s%13.2f' % (project, avg)
 
